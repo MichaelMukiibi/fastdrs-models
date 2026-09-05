@@ -1,0 +1,84 @@
+{
+  "version": "0.1.0",
+  "repository": "MichaelMukiibi/fastdrs-models",
+  "models": {
+    "resnet18": {
+      "architecture": "resnet18",
+      "num_classes": 5,
+      "img_size": 224,
+      "pytorch": {
+        "filename": "resnet18.pth",
+        "sha256": null
+      },
+      "litert": {
+        "filename": "resnet18.tflite",
+        "sha256": null
+      }
+    },
+    "resnet50": {
+      "architecture": "resnet50",
+      "num_classes": 5,
+      "img_size": 224,
+      "pytorch": {
+        "filename": "resnet50.pth",
+        "sha256": null
+      },
+      "litert": {
+        "filename": "resnet50.tflite",
+        "sha256": null
+      }
+    },
+    "densenet121": {
+      "architecture": "densenet121",
+      "num_classes": 5,
+      "img_size": 224,
+      "pytorch": {
+        "filename": "densenet121.pth",
+        "sha256": null
+      },
+      "litert": {
+        "filename": "densenet121.tflite",
+        "sha256": null
+      }
+    },
+    "convnext_tiny": {
+      "architecture": "convnext_tiny",
+      "num_classes": 5,
+      "img_size": 224,
+      "pytorch": {
+        "filename": "convnext_tiny.pth",
+        "sha256": null
+      },
+      "litert": {
+        "filename": "convnext_tiny.tflite",
+        "sha256": null
+      }
+    },
+    "swin_t": {
+      "architecture": "swin_t",
+      "num_classes": 5,
+      "img_size": 224,
+      "pytorch": {
+        "filename": "swin_t.pth",
+        "sha256": null
+      },
+      "litert": {
+        "filename": "swin_t.tflite",
+        "sha256": null
+      }
+    },
+    "mobilenet_v2": {
+      "architecture": "mobilenet_v2",
+      "num_classes": 5,
+      "img_size": 224,
+      "pytorch": {
+        "filename": "mobilenet_v2.pth",
+        "sha256": null
+      },
+      "litert": {
+        "filename": "mobilenet_v2.tflite",
+        "sha256": null
+      }
+    }
+  }
+}

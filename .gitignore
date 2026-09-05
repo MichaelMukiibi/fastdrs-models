@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+.env
+
+# Model binaries are distributed through GitHub Releases.
+models/*.pth
+models/*.pt
+models/*.tflite
+models/*.onnx
+
+# Keep the directory itself in Git.
+!models/.gitkeep
