@@ -8,7 +8,7 @@
       "img_size": 224,
       "pytorch": {
         "filename": "resnet18.pth",
-        "sha256": null
+        "sha256": "023596bb2f802fb0ccc768fb1db0c4d01b7ff704f7630bbe68616d125c32c0a0"
       },
       "litert": {
         "filename": "resnet18.tflite",
@@ -47,11 +47,11 @@
       "img_size": 224,
       "pytorch": {
         "filename": "convnext_tiny.pth",
-        "sha256": null
+        "sha256": "93b8e023062d0c50ee6771d4488897d5620863823089b6195eb6501518064d63"
       },
       "litert": {
         "filename": "convnext_tiny.tflite",
-        "sha256": null
+        "sha256": "4c6a3001e6aa3d3bdc1cd92b63a5e32b1d9828039b1047928c1babf4db31b4a7"
       }
     },
     "swin_t": {
@@ -73,11 +73,11 @@
       "img_size": 224,
       "pytorch": {
         "filename": "mobilenet_v2.pth",
-        "sha256": null
+        "sha256": "8e522e9090449d12de94aaaab947e9e747be43952a520b6a1942e94870eb8cec"
       },
       "litert": {
         "filename": "mobilenet_v2.tflite",
-        "sha256": null
+        "sha256": "6ac532d9441eaf6a420f6df93e71566e516e3fe53b6bf56b204264ae397014ce"
       }
     }
   }
