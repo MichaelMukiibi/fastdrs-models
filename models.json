@@ -47,11 +47,11 @@
       "img_size": 224,
       "pytorch": {
         "filename": "convnext_tiny.pth",
-        "sha256": "93b8e023062d0c50ee6771d4488897d5620863823089b6195eb6501518064d63"
+        "sha256": "f73cd1c6a915a8b5889ca8c2f845ff14999eb37ecce34d1852b9be917cc96fe4"
       },
       "litert": {
         "filename": "convnext_tiny.tflite",
-        "sha256": "4c6a3001e6aa3d3bdc1cd92b63a5e32b1d9828039b1047928c1babf4db31b4a7"
+        "sha256": "eaddf3933d59b7b5fd4b8554d818f36d215fa90793f88f00499b385ec97729ed"
       }
     },
     "swin_t": {
