@@ -60,11 +60,11 @@
       "img_size": 224,
       "pytorch": {
         "filename": "swin_t.pth",
-        "sha256": null
+        "sha256": "cc95a0bb6c87b507618b47539c0ffd865ffae751ea4fbc4e3087e6a723653b7a"
       },
       "litert": {
         "filename": "swin_t.tflite",
-        "sha256": null
+        "sha256": "db099a8f9d80f84577e1bb1bea87bc7cbc0fb6901aad51beb7c7909d948b582d"
       }
     },
     "mobilenet_v2": {
